@@ -1,0 +1,37 @@
+import asyncio
+from core.orchestrator import Orchestrator
+from core.router import Router
+from core.planner import Planner
+from core.critic import Critic
+from core.executor import Executor
+from memory.chroma_store import ChromaStore
+from vision.ui_parser import UIParser
+
+import os
+
+
+async def test():
+    print("[TEST] Initializing test system...")
+    # Use the models the user has chosen
+    os.environ['AUTO_CONTINUE'] = '1'
+    router = Router(model_name="llama3:latest")
+    planner = Planner(model_name="llama3:latest")
+    critic = Critic(model_name="llama3:latest")
+    executor = Executor(ui_parser=UIParser())
+    memory = ChromaStore()
+
+    orchestrator = Orchestrator(
+        router,
+        planner,
+        executor,
+        memory,
+        critic=critic,
+        vision_model="llava:latest")
+
+    prompt = "Open google gemini in brave browser and close after 10 seconds"
+    print(f"[TEST] Sending prompt: {prompt}")
+    await orchestrator.process_prompt(prompt)
+    print("[TEST] Done.")
+
+if __name__ == "__main__":
+    asyncio.run(test())

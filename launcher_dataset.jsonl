@@ -1,0 +1,497 @@
+{"instruction": "Can you powershell please", "output": "start powershell.exe"}
+{"instruction": "I need to write a letter right now", "output": "start winword.exe"}
+{"instruction": "Can you write a document", "output": "start winword.exe"}
+{"instruction": "I need to open spotify", "output": "start spotify.exe"}
+{"instruction": "Help me check performance", "output": "start taskmgr.exe"}
+{"instruction": "Please launch control panel", "output": "start control.exe"}
+{"instruction": "I need to launch microsoft excel", "output": "start excel.exe"}
+{"instruction": "Help me create a drawing", "output": "start mspaint.exe"}
+{"instruction": "I need to browse the web", "output": "start msedge.exe"}
+{"instruction": "Quickly open calculator", "output": "start calc.exe"}
+{"instruction": "open edge right now", "output": "start msedge.exe"}
+{"instruction": "Can you open word", "output": "start winword.exe"}
+{"instruction": "Please kill a process", "output": "start taskmgr.exe"}
+{"instruction": "take a note", "output": "start notepad.exe"}
+{"instruction": "Quickly I want to listen to songs", "output": "start spotify.exe"}
+{"instruction": "Quickly open notepad", "output": "start notepad.exe"}
+{"instruction": "I need to launch microsoft word", "output": "start winword.exe"}
+{"instruction": "Help me play some music", "output": "start spotify.exe"}
+{"instruction": "Please open computer", "output": "start explorer.exe"}
+{"instruction": "I need to show my files", "output": "start explorer.exe"}
+{"instruction": "I need to crunch some numbers", "output": "start calc.exe"}
+{"instruction": "Please show running apps", "output": "start taskmgr.exe"}
+{"instruction": "Please do some math", "output": "start calc.exe"}
+{"instruction": "Please powershell please", "output": "start powershell.exe"}
+{"instruction": "Quickly create a drawing", "output": "start mspaint.exe"}
+{"instruction": "Help me browse with chrome", "output": "start chrome.exe"}
+{"instruction": "Please open powershell", "output": "start powershell.exe"}
+{"instruction": "I need to write a document", "output": "start winword.exe"}
+{"instruction": "Help me crunch some numbers", "output": "start calc.exe"}
+{"instruction": "change system settings", "output": "start control.exe"}
+{"instruction": "Quickly I need a better terminal", "output": "start powershell.exe"}
+{"instruction": "open control panel", "output": "start control.exe"}
+{"instruction": "Please open an image editor", "output": "start mspaint.exe"}
+{"instruction": "Please I need to write a letter", "output": "start winword.exe"}
+{"instruction": "Quickly launch visual studio code", "output": "start code.exe"}
+{"instruction": "open excel right now", "output": "start excel.exe"}
+{"instruction": "I need to open file explorer", "output": "start explorer.exe"}
+{"instruction": "Can you open paint", "output": "start mspaint.exe"}
+{"instruction": "Can you launch visual studio code", "output": "start code.exe"}
+{"instruction": "Can you launch microsoft edge", "output": "start msedge.exe"}
+{"instruction": "I need to run some commands", "output": "start cmd.exe"}
+{"instruction": "Help me launch microsoft edge", "output": "start msedge.exe"}
+{"instruction": "launch calc right now", "output": "start calc.exe"}
+{"instruction": "Quickly browse files", "output": "start explorer.exe"}
+{"instruction": "Quickly open terminal", "output": "start cmd.exe"}
+{"instruction": "Quickly open vs code", "output": "start code.exe"}
+{"instruction": "Please take a note", "output": "start notepad.exe"}
+{"instruction": "open word", "output": "start winword.exe"}
+{"instruction": "Please launch brave browser", "output": "start brave.exe"}
+{"instruction": "Quickly taskmgr please", "output": "start taskmgr.exe"}
+{"instruction": "Can you open spotify", "output": "start spotify.exe"}
+{"instruction": "Quickly I need to look something up online", "output": "start msedge.exe"}
+{"instruction": "Help me open windows explorer", "output": "start explorer.exe"}
+{"instruction": "Can you open an image editor", "output": "start mspaint.exe"}
+{"instruction": "I need to code", "output": "start code.exe"}
+{"instruction": "I need to show running apps", "output": "start taskmgr.exe"}
+{"instruction": "Quickly change system settings", "output": "start control.exe"}
+{"instruction": "I need to code right now", "output": "start code.exe"}
+{"instruction": "Quickly surf privately", "output": "start brave.exe"}
+{"instruction": "Help me open google chrome", "output": "start chrome.exe"}
+{"instruction": "Please launch powershell", "output": "start powershell.exe"}
+{"instruction": "Help me open word", "output": "start winword.exe"}
+{"instruction": "I need to make a table", "output": "start excel.exe"}
+{"instruction": "Quickly open edge", "output": "start msedge.exe"}
+{"instruction": "open command line", "output": "start cmd.exe"}
+{"instruction": "Quickly open word", "output": "start winword.exe"}
+{"instruction": "Help me open command prompt", "output": "start cmd.exe"}
+{"instruction": "Quickly show my files", "output": "start explorer.exe"}
+{"instruction": "launch text editor", "output": "start notepad.exe"}
+{"instruction": "open brave right now", "output": "start brave.exe"}
+{"instruction": "Can you open vs code", "output": "start code.exe"}
+{"instruction": "open powershell", "output": "start powershell.exe"}
+{"instruction": "I need to taskmgr please", "output": "start taskmgr.exe"}
+{"instruction": "Help me show my files", "output": "start explorer.exe"}
+{"instruction": "I need to look something up online right now", "output": "start msedge.exe"}
+{"instruction": "Please open edge", "output": "start msedge.exe"}
+{"instruction": "open brave", "output": "start brave.exe"}
+{"instruction": "open task manager right now", "output": "start taskmgr.exe"}
+{"instruction": "I need to I need to calculate something", "output": "start calc.exe"}
+{"instruction": "browse with chrome right now", "output": "start chrome.exe"}
+{"instruction": "Quickly open command prompt", "output": "start cmd.exe"}
+{"instruction": "taskmgr please right now", "output": "start taskmgr.exe"}
+{"instruction": "open calc.exe", "output": "start calc.exe"}
+{"instruction": "launch ms paint", "output": "start mspaint.exe"}
+{"instruction": "I need to launch google chrome", "output": "start chrome.exe"}
+{"instruction": "open google chrome", "output": "start chrome.exe"}
+{"instruction": "I need to change system settings", "output": "start control.exe"}
+{"instruction": "Please taskmgr please", "output": "start taskmgr.exe"}
+{"instruction": "Quickly launch spotify", "output": "start spotify.exe"}
+{"instruction": "I need to I need to look something up online", "output": "start msedge.exe"}
+{"instruction": "open excel", "output": "start excel.exe"}
+{"instruction": "open chrome", "output": "start chrome.exe"}
+{"instruction": "I need to do some accounting", "output": "start excel.exe"}
+{"instruction": "Please open notepad", "output": "start notepad.exe"}
+{"instruction": "Please create a drawing", "output": "start mspaint.exe"}
+{"instruction": "powershell please", "output": "start powershell.exe"}
+{"instruction": "I need to I need to run some commands", "output": "start cmd.exe"}
+{"instruction": "Quickly I need to draw something", "output": "start mspaint.exe"}
+{"instruction": "I need to write a letter", "output": "start winword.exe"}
+{"instruction": "Please open task manager", "output": "start taskmgr.exe"}
+{"instruction": "open control panel right now", "output": "start control.exe"}
+{"instruction": "Please open command prompt", "output": "start cmd.exe"}
+{"instruction": "I need to open web browser", "output": "start msedge.exe"}
+{"instruction": "I need to open vs code", "output": "start code.exe"}
+{"instruction": "Can you taskmgr please", "output": "start taskmgr.exe"}
+{"instruction": "Can you open calculator", "output": "start calc.exe"}
+{"instruction": "Please browse files", "output": "start explorer.exe"}
+{"instruction": "Quickly launch brave browser", "output": "start brave.exe"}
+{"instruction": "browse with chrome", "output": "start chrome.exe"}
+{"instruction": "Can you change system settings", "output": "start control.exe"}
+{"instruction": "Can you launch ms paint", "output": "start mspaint.exe"}
+{"instruction": "Quickly launch google chrome", "output": "start chrome.exe"}
+{"instruction": "Help me system config", "output": "start control.exe"}
+{"instruction": "I need to run some commands right now", "output": "start cmd.exe"}
+{"instruction": "Help me open chrome", "output": "start chrome.exe"}
+{"instruction": "Help me open spotify", "output": "start spotify.exe"}
+{"instruction": "Quickly open chrome", "output": "start chrome.exe"}
+{"instruction": "Please open terminal", "output": "start cmd.exe"}
+{"instruction": "launch microsoft excel right now", "output": "start excel.exe"}
+{"instruction": "Can you launch control panel", "output": "start control.exe"}
+{"instruction": "Help me launch microsoft word", "output": "start winword.exe"}
+{"instruction": "browse the web", "output": "start msedge.exe"}
+{"instruction": "I need to write something down", "output": "start notepad.exe"}
+{"instruction": "Quickly I need to code", "output": "start code.exe"}
+{"instruction": "launch ms paint right now", "output": "start mspaint.exe"}
+{"instruction": "Help me launch ms paint", "output": "start mspaint.exe"}
+{"instruction": "Help me take a note", "output": "start notepad.exe"}
+{"instruction": "Please launch cmd", "output": "start cmd.exe"}
+{"instruction": "Please I need to do some accounting", "output": "start excel.exe"}
+{"instruction": "I need to check performance", "output": "start taskmgr.exe"}
+{"instruction": "Help me launch google chrome", "output": "start chrome.exe"}
+{"instruction": "open spotify", "output": "start spotify.exe"}
+{"instruction": "Help me open edge", "output": "start msedge.exe"}
+{"instruction": "I need to launch text editor", "output": "start notepad.exe"}
+{"instruction": "open notepad", "output": "start notepad.exe"}
+{"instruction": "Please I need to code", "output": "start code.exe"}
+{"instruction": "Quickly surf the internet", "output": "start msedge.exe"}
+{"instruction": "Quickly create a word doc", "output": "start winword.exe"}
+{"instruction": "create a word doc", "output": "start winword.exe"}
+{"instruction": "open command line right now", "output": "start cmd.exe"}
+{"instruction": "I need to kill a process", "output": "start taskmgr.exe"}
+{"instruction": "open word right now", "output": "start winword.exe"}
+{"instruction": "show running apps", "output": "start taskmgr.exe"}
+{"instruction": "I need to I need to draw something", "output": "start mspaint.exe"}
+{"instruction": "Please open brave", "output": "start brave.exe"}
+{"instruction": "Please open windows explorer", "output": "start explorer.exe"}
+{"instruction": "Help me launch cmd", "output": "start cmd.exe"}
+{"instruction": "I need to browse files", "output": "start explorer.exe"}
+{"instruction": "show running apps right now", "output": "start taskmgr.exe"}
+{"instruction": "Please open control panel", "output": "start control.exe"}
+{"instruction": "Can you open notepad", "output": "start notepad.exe"}
+{"instruction": "open vs code", "output": "start code.exe"}
+{"instruction": "Can you launch brave browser", "output": "start brave.exe"}
+{"instruction": "Can you I need to look something up online", "output": "start msedge.exe"}
+{"instruction": "I want to listen to songs right now", "output": "start spotify.exe"}
+{"instruction": "launch brave browser", "output": "start brave.exe"}
+{"instruction": "Can you launch text editor", "output": "start notepad.exe"}
+{"instruction": "show my files", "output": "start explorer.exe"}
+{"instruction": "Quickly launch microsoft edge", "output": "start msedge.exe"}
+{"instruction": "open chrome right now", "output": "start chrome.exe"}
+{"instruction": "open terminal right now", "output": "start cmd.exe"}
+{"instruction": "Help me I need to write a letter", "output": "start winword.exe"}
+{"instruction": "Help me open web browser", "output": "start msedge.exe"}
+{"instruction": "Please make a table", "output": "start excel.exe"}
+{"instruction": "I need a better terminal", "output": "start powershell.exe"}
+{"instruction": "I need to launch ms paint", "output": "start mspaint.exe"}
+{"instruction": "I need to open calc.exe", "output": "start calc.exe"}
+{"instruction": "create a spreadsheet right now", "output": "start excel.exe"}
+{"instruction": "Can you make a table", "output": "start excel.exe"}
+{"instruction": "Can you do some math", "output": "start calc.exe"}
+{"instruction": "Please create a word doc", "output": "start winword.exe"}
+{"instruction": "I need to take a note", "output": "start notepad.exe"}
+{"instruction": "Please surf the internet", "output": "start msedge.exe"}
+{"instruction": "launch control panel", "output": "start control.exe"}
+{"instruction": "Please open spotify", "output": "start spotify.exe"}
+{"instruction": "Can you browse the web", "output": "start msedge.exe"}
+{"instruction": "I need to open task manager", "output": "start taskmgr.exe"}
+{"instruction": "Please I need a better terminal", "output": "start powershell.exe"}
+{"instruction": "launch spotify right now", "output": "start spotify.exe"}
+{"instruction": "Quickly open paint", "output": "start mspaint.exe"}
+{"instruction": "create a word doc right now", "output": "start winword.exe"}
+{"instruction": "Please open calculator", "output": "start calc.exe"}
+{"instruction": "Quickly I need to write a letter", "output": "start winword.exe"}
+{"instruction": "I need to open google chrome", "output": "start chrome.exe"}
+{"instruction": "Quickly launch cmd", "output": "start cmd.exe"}
+{"instruction": "open vs code right now", "output": "start code.exe"}
+{"instruction": "I need to surf the internet", "output": "start msedge.exe"}
+{"instruction": "Quickly crunch some numbers", "output": "start calc.exe"}
+{"instruction": "Please launch microsoft word", "output": "start winword.exe"}
+{"instruction": "I need to surf privately", "output": "start brave.exe"}
+{"instruction": "I need to draw something right now", "output": "start mspaint.exe"}
+{"instruction": "write a document right now", "output": "start winword.exe"}
+{"instruction": "Help me show running apps", "output": "start taskmgr.exe"}
+{"instruction": "I need to open word", "output": "start winword.exe"}
+{"instruction": "Quickly do some math", "output": "start calc.exe"}
+{"instruction": "Quickly open computer", "output": "start explorer.exe"}
+{"instruction": "open calculator right now", "output": "start calc.exe"}
+{"instruction": "Help me I want to listen to songs", "output": "start spotify.exe"}
+{"instruction": "Can you system config", "output": "start control.exe"}
+{"instruction": "Can you launch cmd", "output": "start cmd.exe"}
+{"instruction": "Help me launch control panel", "output": "start control.exe"}
+{"instruction": "I want to listen to songs", "output": "start spotify.exe"}
+{"instruction": "I need to launch calc", "output": "start calc.exe"}
+{"instruction": "Quickly launch microsoft excel", "output": "start excel.exe"}
+{"instruction": "Help me open task manager", "output": "start taskmgr.exe"}
+{"instruction": "I need to open notepad", "output": "start notepad.exe"}
+{"instruction": "Help me write a document", "output": "start winword.exe"}
+{"instruction": "Can you open chrome", "output": "start chrome.exe"}
+{"instruction": "I need to launch brave browser", "output": "start brave.exe"}
+{"instruction": "Help me I need to code", "output": "start code.exe"}
+{"instruction": "Help me open calc.exe", "output": "start calc.exe"}
+{"instruction": "Can you show running apps", "output": "start taskmgr.exe"}
+{"instruction": "Can you show my files", "output": "start explorer.exe"}
+{"instruction": "Please I need to look something up online", "output": "start msedge.exe"}
+{"instruction": "open windows explorer", "output": "start explorer.exe"}
+{"instruction": "open powershell right now", "output": "start powershell.exe"}
+{"instruction": "launch text editor right now", "output": "start notepad.exe"}
+{"instruction": "Quickly open spotify", "output": "start spotify.exe"}
+{"instruction": "I need to open edge", "output": "start msedge.exe"}
+{"instruction": "Please change system settings", "output": "start control.exe"}
+{"instruction": "Can you create a word doc", "output": "start winword.exe"}
+{"instruction": "Quickly open task manager", "output": "start taskmgr.exe"}
+{"instruction": "I need to open simple text editor", "output": "start notepad.exe"}
+{"instruction": "I need to draw something", "output": "start mspaint.exe"}
+{"instruction": "Quickly I need to write something down", "output": "start notepad.exe"}
+{"instruction": "Can you browse with chrome", "output": "start chrome.exe"}
+{"instruction": "launch microsoft word right now", "output": "start winword.exe"}
+{"instruction": "Can you launch microsoft word", "output": "start winword.exe"}
+{"instruction": "Please launch microsoft excel", "output": "start excel.exe"}
+{"instruction": "show my files right now", "output": "start explorer.exe"}
+{"instruction": "Help me make a table", "output": "start excel.exe"}
+{"instruction": "I need to write something down right now", "output": "start notepad.exe"}
+{"instruction": "I need to powershell please", "output": "start powershell.exe"}
+{"instruction": "Please open brave.exe", "output": "start brave.exe"}
+{"instruction": "open calc.exe right now", "output": "start calc.exe"}
+{"instruction": "launch microsoft excel", "output": "start excel.exe"}
+{"instruction": "Please I need to draw something", "output": "start mspaint.exe"}
+{"instruction": "I need to open an image editor", "output": "start mspaint.exe"}
+{"instruction": "Quickly open command line", "output": "start cmd.exe"}
+{"instruction": "Please I want to listen to songs", "output": "start spotify.exe"}
+{"instruction": "Quickly open web browser", "output": "start msedge.exe"}
+{"instruction": "Can you open windows explorer", "output": "start explorer.exe"}
+{"instruction": "Please open vs code", "output": "start code.exe"}
+{"instruction": "Please I need to calculate something", "output": "start calc.exe"}
+{"instruction": "surf the internet right now", "output": "start msedge.exe"}
+{"instruction": "Can you I want to listen to songs", "output": "start spotify.exe"}
+{"instruction": "Can you I need to write a letter", "output": "start winword.exe"}
+{"instruction": "Can you open control panel", "output": "start control.exe"}
+{"instruction": "open terminal", "output": "start cmd.exe"}
+{"instruction": "Please I need to write something down", "output": "start notepad.exe"}
+{"instruction": "I need to launch control panel", "output": "start control.exe"}
+{"instruction": "Help me open terminal", "output": "start cmd.exe"}
+{"instruction": "Help me open paint", "output": "start mspaint.exe"}
+{"instruction": "Quickly create a spreadsheet", "output": "start excel.exe"}
+{"instruction": "Please open web browser", "output": "start msedge.exe"}
+{"instruction": "Help me launch brave browser", "output": "start brave.exe"}
+{"instruction": "check performance right now", "output": "start taskmgr.exe"}
+{"instruction": "Can you kill a process", "output": "start taskmgr.exe"}
+{"instruction": "I need to I need a better terminal", "output": "start powershell.exe"}
+{"instruction": "do some math right now", "output": "start calc.exe"}
+{"instruction": "system config", "output": "start control.exe"}
+{"instruction": "Help me create a word doc", "output": "start winword.exe"}
+{"instruction": "make a table right now", "output": "start excel.exe"}
+{"instruction": "Help me open notepad", "output": "start notepad.exe"}
+{"instruction": "open spotify right now", "output": "start spotify.exe"}
+{"instruction": "launch powershell right now", "output": "start powershell.exe"}
+{"instruction": "launch cmd", "output": "start cmd.exe"}
+{"instruction": "I need to create a drawing", "output": "start mspaint.exe"}
+{"instruction": "Help me launch spotify", "output": "start spotify.exe"}
+{"instruction": "Quickly I need to calculate something", "output": "start calc.exe"}
+{"instruction": "Quickly check performance", "output": "start taskmgr.exe"}
+{"instruction": "I need to look something up online", "output": "start msedge.exe"}
+{"instruction": "launch visual studio code", "output": "start code.exe"}
+{"instruction": "launch google chrome right now", "output": "start chrome.exe"}
+{"instruction": "I need to do some accounting right now", "output": "start excel.exe"}
+{"instruction": "crunch some numbers", "output": "start calc.exe"}
+{"instruction": "open command prompt right now", "output": "start cmd.exe"}
+{"instruction": "crunch some numbers right now", "output": "start calc.exe"}
+{"instruction": "Quickly browse with chrome", "output": "start chrome.exe"}
+{"instruction": "I need to open paint", "output": "start mspaint.exe"}
+{"instruction": "I need to open command prompt", "output": "start cmd.exe"}
+{"instruction": "Quickly powershell please", "output": "start powershell.exe"}
+{"instruction": "Can you I need to code", "output": "start code.exe"}
+{"instruction": "open simple text editor right now", "output": "start notepad.exe"}
+{"instruction": "Please browse with chrome", "output": "start chrome.exe"}
+{"instruction": "I need to open chrome", "output": "start chrome.exe"}
+{"instruction": "I need to calculate something", "output": "start calc.exe"}
+{"instruction": "launch microsoft word", "output": "start winword.exe"}
+{"instruction": "Quickly open brave.exe", "output": "start brave.exe"}
+{"instruction": "Quickly play some music", "output": "start spotify.exe"}
+{"instruction": "Can you launch calc", "output": "start calc.exe"}
+{"instruction": "I need to open code editor", "output": "start code.exe"}
+{"instruction": "Please open chrome", "output": "start chrome.exe"}
+{"instruction": "Can you surf privately", "output": "start brave.exe"}
+{"instruction": "Help me I need a better terminal", "output": "start powershell.exe"}
+{"instruction": "Please I need to run some commands", "output": "start cmd.exe"}
+{"instruction": "launch cmd right now", "output": "start cmd.exe"}
+{"instruction": "Quickly open code editor", "output": "start code.exe"}
+{"instruction": "Can you I need to run some commands", "output": "start cmd.exe"}
+{"instruction": "Help me open calculator", "output": "start calc.exe"}
+{"instruction": "Help me open excel", "output": "start excel.exe"}
+{"instruction": "Help me open an image editor", "output": "start mspaint.exe"}
+{"instruction": "Help me create a spreadsheet", "output": "start excel.exe"}
+{"instruction": "Can you I need a better terminal", "output": "start powershell.exe"}
+{"instruction": "I need to I need to code", "output": "start code.exe"}
+{"instruction": "I need to create a spreadsheet", "output": "start excel.exe"}
+{"instruction": "Can you open edge", "output": "start msedge.exe"}
+{"instruction": "Please launch calc", "output": "start calc.exe"}
+{"instruction": "launch control panel right now", "output": "start control.exe"}
+{"instruction": "open paint", "output": "start mspaint.exe"}
+{"instruction": "Help me surf privately", "output": "start brave.exe"}
+{"instruction": "Help me I need to look something up online", "output": "start msedge.exe"}
+{"instruction": "Quickly show running apps", "output": "start taskmgr.exe"}
+{"instruction": "Can you browse files", "output": "start explorer.exe"}
+{"instruction": "I need to open powershell", "output": "start powershell.exe"}
+{"instruction": "open command prompt", "output": "start cmd.exe"}
+{"instruction": "Can you I need to do some accounting", "output": "start excel.exe"}
+{"instruction": "Can you launch google chrome", "output": "start chrome.exe"}
+{"instruction": "taskmgr please", "output": "start taskmgr.exe"}
+{"instruction": "open simple text editor", "output": "start notepad.exe"}
+{"instruction": "open notepad right now", "output": "start notepad.exe"}
+{"instruction": "launch calc", "output": "start calc.exe"}
+{"instruction": "I need to launch microsoft edge", "output": "start msedge.exe"}
+{"instruction": "open brave.exe right now", "output": "start brave.exe"}
+{"instruction": "Please crunch some numbers", "output": "start calc.exe"}
+{"instruction": "Quickly I need to do some accounting", "output": "start excel.exe"}
+{"instruction": "Help me kill a process", "output": "start taskmgr.exe"}
+{"instruction": "Please open paint", "output": "start mspaint.exe"}
+{"instruction": "Help me open powershell", "output": "start powershell.exe"}
+{"instruction": "I need to play some music", "output": "start spotify.exe"}
+{"instruction": "Quickly open google chrome", "output": "start chrome.exe"}
+{"instruction": "Can you play some music", "output": "start spotify.exe"}
+{"instruction": "create a spreadsheet", "output": "start excel.exe"}
+{"instruction": "change system settings right now", "output": "start control.exe"}
+{"instruction": "Please show my files", "output": "start explorer.exe"}
+{"instruction": "play some music", "output": "start spotify.exe"}
+{"instruction": "Please open calc.exe", "output": "start calc.exe"}
+{"instruction": "I need to launch powershell", "output": "start powershell.exe"}
+{"instruction": "I need to I need to do some accounting", "output": "start excel.exe"}
+{"instruction": "check performance", "output": "start taskmgr.exe"}
+{"instruction": "I need to I need to write something down", "output": "start notepad.exe"}
+{"instruction": "I need to create a word doc", "output": "start winword.exe"}
+{"instruction": "Please open code editor", "output": "start code.exe"}
+{"instruction": "Please open google chrome", "output": "start chrome.exe"}
+{"instruction": "Can you open file explorer", "output": "start explorer.exe"}
+{"instruction": "open task manager", "output": "start taskmgr.exe"}
+{"instruction": "do some math", "output": "start calc.exe"}
+{"instruction": "Quickly open brave", "output": "start brave.exe"}
+{"instruction": "Can you open excel", "output": "start excel.exe"}
+{"instruction": "Help me I need to write something down", "output": "start notepad.exe"}
+{"instruction": "I need to open calculator", "output": "start calc.exe"}
+{"instruction": "Quickly browse the web", "output": "start msedge.exe"}
+{"instruction": "Can you open task manager", "output": "start taskmgr.exe"}
+{"instruction": "Help me change system settings", "output": "start control.exe"}
+{"instruction": "Quickly open windows explorer", "output": "start explorer.exe"}
+{"instruction": "Quickly kill a process", "output": "start taskmgr.exe"}
+{"instruction": "Please create a spreadsheet", "output": "start excel.exe"}
+{"instruction": "Quickly open control panel", "output": "start control.exe"}
+{"instruction": "Help me open control panel", "output": "start control.exe"}
+{"instruction": "Quickly open an image editor", "output": "start mspaint.exe"}
+{"instruction": "Can you open web browser", "output": "start msedge.exe"}
+{"instruction": "Can you open terminal", "output": "start cmd.exe"}
+{"instruction": "Quickly launch microsoft word", "output": "start winword.exe"}
+{"instruction": "Quickly open excel", "output": "start excel.exe"}
+{"instruction": "Help me launch powershell", "output": "start powershell.exe"}
+{"instruction": "launch visual studio code right now", "output": "start code.exe"}
+{"instruction": "I need to open excel", "output": "start excel.exe"}
+{"instruction": "browse the web right now", "output": "start msedge.exe"}
+{"instruction": "Can you create a drawing", "output": "start mspaint.exe"}
+{"instruction": "Can you launch microsoft excel", "output": "start excel.exe"}
+{"instruction": "Can you take a note", "output": "start notepad.exe"}
+{"instruction": "open computer", "output": "start explorer.exe"}
+{"instruction": "Help me I need to run some commands", "output": "start cmd.exe"}
+{"instruction": "open paint right now", "output": "start mspaint.exe"}
+{"instruction": "Can you I need to write something down", "output": "start notepad.exe"}
+{"instruction": "I need to browse with chrome", "output": "start chrome.exe"}
+{"instruction": "Please launch microsoft edge", "output": "start msedge.exe"}
+{"instruction": "Can you create a spreadsheet", "output": "start excel.exe"}
+{"instruction": "Please open simple text editor", "output": "start notepad.exe"}
+{"instruction": "open web browser right now", "output": "start msedge.exe"}
+{"instruction": "open code editor", "output": "start code.exe"}
+{"instruction": "Help me do some math", "output": "start calc.exe"}
+{"instruction": "take a note right now", "output": "start notepad.exe"}
+{"instruction": "launch google chrome", "output": "start chrome.exe"}
+{"instruction": "Please write a document", "output": "start winword.exe"}
+{"instruction": "kill a process right now", "output": "start taskmgr.exe"}
+{"instruction": "I need a better terminal right now", "output": "start powershell.exe"}
+{"instruction": "I need to open brave.exe", "output": "start brave.exe"}
+{"instruction": "Quickly launch powershell", "output": "start powershell.exe"}
+{"instruction": "Can you open brave", "output": "start brave.exe"}
+{"instruction": "Can you I need to draw something", "output": "start mspaint.exe"}
+{"instruction": "make a table", "output": "start excel.exe"}
+{"instruction": "I need to I want to listen to songs", "output": "start spotify.exe"}
+{"instruction": "Can you check performance", "output": "start taskmgr.exe"}
+{"instruction": "Help me powershell please", "output": "start powershell.exe"}
+{"instruction": "Please open file explorer", "output": "start explorer.exe"}
+{"instruction": "Help me open code editor", "output": "start code.exe"}
+{"instruction": "Can you open powershell", "output": "start powershell.exe"}
+{"instruction": "Can you open command line", "output": "start cmd.exe"}
+{"instruction": "Quickly I need to run some commands", "output": "start cmd.exe"}
+{"instruction": "Help me open computer", "output": "start explorer.exe"}
+{"instruction": "Help me surf the internet", "output": "start msedge.exe"}
+{"instruction": "Help me browse files", "output": "start explorer.exe"}
+{"instruction": "I need to do some math", "output": "start calc.exe"}
+{"instruction": "surf privately", "output": "start brave.exe"}
+{"instruction": "I need to system config", "output": "start control.exe"}
+{"instruction": "open file explorer right now", "output": "start explorer.exe"}
+{"instruction": "Help me launch text editor", "output": "start notepad.exe"}
+{"instruction": "surf privately right now", "output": "start brave.exe"}
+{"instruction": "Quickly write a document", "output": "start winword.exe"}
+{"instruction": "Help me launch microsoft excel", "output": "start excel.exe"}
+{"instruction": "open calculator", "output": "start calc.exe"}
+{"instruction": "Help me I need to do some accounting", "output": "start excel.exe"}
+{"instruction": "I need to open terminal", "output": "start cmd.exe"}
+{"instruction": "launch microsoft edge", "output": "start msedge.exe"}
+{"instruction": "kill a process", "output": "start taskmgr.exe"}
+{"instruction": "open an image editor", "output": "start mspaint.exe"}
+{"instruction": "Can you open simple text editor", "output": "start notepad.exe"}
+{"instruction": "Can you open calc.exe", "output": "start calc.exe"}
+{"instruction": "Help me open vs code", "output": "start code.exe"}
+{"instruction": "Help me I need to calculate something", "output": "start calc.exe"}
+{"instruction": "Help me I need to draw something", "output": "start mspaint.exe"}
+{"instruction": "Help me taskmgr please", "output": "start taskmgr.exe"}
+{"instruction": "Please check performance", "output": "start taskmgr.exe"}
+{"instruction": "Quickly open calc.exe", "output": "start calc.exe"}
+{"instruction": "Quickly launch calc", "output": "start calc.exe"}
+{"instruction": "browse files", "output": "start explorer.exe"}
+{"instruction": "Can you open brave.exe", "output": "start brave.exe"}
+{"instruction": "Quickly open powershell", "output": "start powershell.exe"}
+{"instruction": "Quickly launch control panel", "output": "start control.exe"}
+{"instruction": "I need to launch visual studio code", "output": "start code.exe"}
+{"instruction": "Please launch text editor", "output": "start notepad.exe"}
+{"instruction": "Please launch google chrome", "output": "start chrome.exe"}
+{"instruction": "Please open command line", "output": "start cmd.exe"}
+{"instruction": "launch microsoft edge right now", "output": "start msedge.exe"}
+{"instruction": "Please play some music", "output": "start spotify.exe"}
+{"instruction": "Can you crunch some numbers", "output": "start calc.exe"}
+{"instruction": "I need to open command line", "output": "start cmd.exe"}
+{"instruction": "Please browse the web", "output": "start msedge.exe"}
+{"instruction": "Please open excel", "output": "start excel.exe"}
+{"instruction": "write a document", "output": "start winword.exe"}
+{"instruction": "Can you launch spotify", "output": "start spotify.exe"}
+{"instruction": "Quickly make a table", "output": "start excel.exe"}
+{"instruction": "Quickly open simple text editor", "output": "start notepad.exe"}
+{"instruction": "Can you I need to calculate something", "output": "start calc.exe"}
+{"instruction": "Help me launch visual studio code", "output": "start code.exe"}
+{"instruction": "Please launch visual studio code", "output": "start code.exe"}
+{"instruction": "launch brave browser right now", "output": "start brave.exe"}
+{"instruction": "I need to launch spotify", "output": "start spotify.exe"}
+{"instruction": "system config right now", "output": "start control.exe"}
+{"instruction": "surf the internet", "output": "start msedge.exe"}
+{"instruction": "Please surf privately", "output": "start brave.exe"}
+{"instruction": "I need to open windows explorer", "output": "start explorer.exe"}
+{"instruction": "Help me open command line", "output": "start cmd.exe"}
+{"instruction": "launch powershell", "output": "start powershell.exe"}
+{"instruction": "Help me launch calc", "output": "start calc.exe"}
+{"instruction": "open google chrome right now", "output": "start chrome.exe"}
+{"instruction": "Quickly system config", "output": "start control.exe"}
+{"instruction": "I need to open control panel", "output": "start control.exe"}
+{"instruction": "open an image editor right now", "output": "start mspaint.exe"}
+{"instruction": "I need to I need to write a letter", "output": "start winword.exe"}
+{"instruction": "Can you open code editor", "output": "start code.exe"}
+{"instruction": "Quickly open file explorer", "output": "start explorer.exe"}
+{"instruction": "launch spotify", "output": "start spotify.exe"}
+{"instruction": "I need to open brave", "output": "start brave.exe"}
+{"instruction": "Can you open google chrome", "output": "start chrome.exe"}
+{"instruction": "open computer right now", "output": "start explorer.exe"}
+{"instruction": "Can you open computer", "output": "start explorer.exe"}
+{"instruction": "open windows explorer right now", "output": "start explorer.exe"}
+{"instruction": "Please system config", "output": "start control.exe"}
+{"instruction": "I need to calculate something right now", "output": "start calc.exe"}
+{"instruction": "I need to open computer", "output": "start explorer.exe"}
+{"instruction": "Quickly take a note", "output": "start notepad.exe"}
+{"instruction": "open web browser", "output": "start msedge.exe"}
+{"instruction": "create a drawing", "output": "start mspaint.exe"}
+{"instruction": "Quickly launch text editor", "output": "start notepad.exe"}
+{"instruction": "Can you open command prompt", "output": "start cmd.exe"}
+{"instruction": "play some music right now", "output": "start spotify.exe"}
+{"instruction": "Help me open brave.exe", "output": "start brave.exe"}
+{"instruction": "Help me open simple text editor", "output": "start notepad.exe"}
+{"instruction": "open code editor right now", "output": "start code.exe"}
+{"instruction": "Please launch ms paint", "output": "start mspaint.exe"}
+{"instruction": "Help me browse the web", "output": "start msedge.exe"}
+{"instruction": "Please launch spotify", "output": "start spotify.exe"}
+{"instruction": "browse files right now", "output": "start explorer.exe"}
+{"instruction": "open edge", "output": "start msedge.exe"}
+{"instruction": "Can you surf the internet", "output": "start msedge.exe"}
+{"instruction": "open file explorer", "output": "start explorer.exe"}
+{"instruction": "Can you launch powershell", "output": "start powershell.exe"}
+{"instruction": "Please open word", "output": "start winword.exe"}
+{"instruction": "powershell please right now", "output": "start powershell.exe"}
+{"instruction": "Help me open brave", "output": "start brave.exe"}
+{"instruction": "I need to launch cmd", "output": "start cmd.exe"}
+{"instruction": "Quickly launch ms paint", "output": "start mspaint.exe"}
+{"instruction": "open brave.exe", "output": "start brave.exe"}
+{"instruction": "Help me open file explorer", "output": "start explorer.exe"}
+{"instruction": "create a drawing right now", "output": "start mspaint.exe"}
